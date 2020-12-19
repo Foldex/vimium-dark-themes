@@ -13,6 +13,20 @@
   /*    Uncomment Theme to Select    */
   /***********************************/
 
+  /* ---------- Edge Dark ---------- */
+  --fg: #c5cdd9;
+  --bg: #2c2e34;
+  --border: #828a98;
+  --main-fg: #6cb6eb;
+  --accent-fg: #a0c980;
+
+  /* Unused Alternate Colors */
+  /* --bg-dark: #21242f; */
+  /* --cyan: #5dbbc1; */
+  /* --purple: #d38aea; */
+  /* --red: #ec7279; */
+  /* --yellow: #deb974; */
+
 	/* ---------- Gruvbox Dark ---------- */
   /* -- DELETE LINE TO ENABLE THEME
 	   --fg: #ebdbb2;
